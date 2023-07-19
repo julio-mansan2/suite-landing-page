@@ -70,8 +70,23 @@
 
     .testimonial > article {
         grid-template-columns: 1fr;
-        text-align: center;
+        justify-items: flex-start;
         padding: 1.875rem;
+        text-align: center;
+        width: 100%;
+    }
+
+    .testimonial q {
+        font-size: 1rem;
+    }
+
+    .testimonial img {
+        margin-bottom: 0px;
+        width: 100%;
+    }
+
+    .intro img {
+        margin-left: 0%;
     }
 
     .footer {
