@@ -1,0 +1,12 @@
+:root {
+    /* neutrals */
+    --black: hsla(219, 42%, 16%, 1);
+    --gray: hsla(218, 20%, 36%, 1);
+    --beige: hsla(30, 33%, 93%, 1);
+    --light-beige: hsla(30, 29%, 97%, 1);
+  
+    /* primary */
+    --purple: hsla(264, 100%, 69%, 1);
+    --violet: hsla(292, 76%, 54%, 1);
+    --orange: hsla(31, 100%, 65%, 1);
+  }
